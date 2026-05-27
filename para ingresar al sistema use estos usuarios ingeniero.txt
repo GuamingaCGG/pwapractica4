@@ -1,0 +1,3 @@
+-- usuario: docente@test.com      contraseña:1234
+-- usuario: estudiante@test.com   contraseña:1234
+-- 
